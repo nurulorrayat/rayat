@@ -1,0 +1,60 @@
+:root {
+  --bg-color: #161616;
+  --shadow: #313131;
+}
+@media screen and (max-width: 480px) {
+  body {
+    height: 1000px;
+  }
+  p {
+    padding-bottom: 150px;
+  }
+}
+.my-logo {
+  border-radius: 50%;
+}
+body {
+  background: var(--bg-color);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+footer {
+  margin-top: auto;
+  background-color: #808080;
+}
+.main-body {
+  position: relative;
+  top: 150px;
+  bottom: 50px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+.faiyad {
+  padding-bottom: 50px;
+  line-height: 90px;
+  font-size: 100px;
+}
+.Team-A {
+  position: relative;
+  top: 150px;
+  margin-bottom: 3rem;
+}
+.stats {
+  position: relative;
+  top: 150px;
+}
+.stats {
+  margin-bottom: 6rem;
+}
+.figure {
+  position: relative;
+}
+.figure-img {
+  width: 600px;
+}
+.about {
+  color: white;
+  text-align: center;
+  padding-top: 7rem;
+}
