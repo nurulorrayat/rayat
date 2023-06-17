@@ -1,91 +1,79 @@
 [
   {
     "Rank": 1,
-    "Name": "🏆 Faiyad Rashid",
-    "Goals": 20,
-    "Assists": 10
+    "Name": "Faiyad",
+    "Goals": 3,
+    "Assists": 6
   },
   {
     "Rank": 2,
-    "Name": "Raiyan Ritom",
-    "Goals": 19,
-    "Assists": 17
+    "Name": "Ritom",
+    "Goals": 5,
+    "Assists": 1
   },
   {
     "Rank": 3,
-    "Name": "Ahmed Dihan",
-    "Goals": 19,
-    "Assists": 13
+    "Name": "Raeed",
+    "Goals": 0,
+    "Assists": 1
   },
   {
     "Rank": 4,
-    "Name": "Afsan Zaman",
-    "Goals": 18,
-    "Assists": 8
+    "Name": "Dihan",
+    "Goals": 4,
+    "Assists": 1
   },
   {
     "Rank": 5,
-    "Name": "Isnan Samaun Ribat",
-    "Goals": 5,
-    "Assists": 3
-  },
-  {
-    "Rank": 6,
-    "Name": "Faiyad Mosleh",
-    "Goals": 3,
-    "Assists": 7
-  },
-  {
-    "Rank": 7,
-    "Name": "Atif",
-    "Goals": 3,
-    "Assists": 2
-  },
-  {
-    "Rank": 8,
-    "Name": "Areeb Zaved",
-    "Goals": 2,
+    "Name": "Areeb",
+    "Goals": 1,
     "Assists": 0
   },
   {
+    "Rank": 6,
+    "Name": "Araf",
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
+    "Rank": 7,
+    "Name": "Afsan",
+    "Goals": 4,
+    "Assists": 6
+  },
+  {
+    "Rank": 8,
+    "Name": "Jubayer",
+    "Goals": 0,
+    "Assists": 1
+  },
+  {
     "Rank": 9,
-    "Name": "Tawsif Akhiyar",
+    "Name": "Nobonil",
     "Goals": 1,
     "Assists": 1
   },
   {
     "Rank": 10,
-    "Name": "Abrar Nafis Sadeque",
-    "Goals": 1,
-    "Assists": 0
-  },
-  {
-    "Rank": 11,
-    "Name": "Aafifur Rahman",
-    "Goals": 1,
-    "Assists": 2
-  },
-  {
-    "Rank": 12,
-    "Name": "Raeed",
-    "Goals": 1,
+    "Name": "Raad",
+    "Goals": 0,
     "Assists": 1
   },
   {
+    "Rank": 11,
+    "Name": "Sadeque",
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
+    "Rank": 12,
+    "Name": "Tawseef",
+    "Goals": 1,
+    "Assists": 0
+  },
+  {
     "Rank": 13,
-    "Name": "Safwan",
-    "Goals": 1,
-    "Assists": 0
-  },
-  {
-    "Rank": 14,
-    "Name": "Amio Sarkar",
-    "Goals": 1,
-    "Assists": 0
-  },
-  {
-    "Rank": 15,
-    "Name": "Labib Mahboob",
+    "Name": "Labib",
     "Goals": 0,
     "Assists": 1
   }
